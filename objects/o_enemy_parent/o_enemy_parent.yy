@@ -4,12 +4,16 @@
   "name": "o_enemy_parent",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"o_solid","path":"objects/o_solid/o_solid.yy",},"eventNum":0,"eventType":4,"isDnD":true,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":true,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":2,"eventType":3,"isDnD":true,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":7,"eventType":7,"isDnD":true,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Parent",
-    "path": "folders/Objects/Characters/Enemies/Parent.yy",
+    "name": "Enemy",
+    "path": "folders/Objects/Characters/Enemy.yy",
   },
   "parentObjectId": null,
   "persistent": false,
