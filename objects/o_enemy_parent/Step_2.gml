@@ -1,14 +1,14 @@
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1
-/// @DnDHash : 37B18BEE
+/// @DnDHash : 1A8BACAE
 /// @DnDArgument : "var" "attacking"
 /// @DnDArgument : "value" "true"
 if(attacking == true)
 {
 	/// @DnDAction : YoYo Games.Common.Exit_Event
 	/// @DnDVersion : 1
-	/// @DnDHash : 16F8A74B
-	/// @DnDParent : 37B18BEE
+	/// @DnDHash : 17D0D4D5
+	/// @DnDParent : 1A8BACAE
 	exit;
 }
 

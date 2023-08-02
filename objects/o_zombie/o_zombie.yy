@@ -3,7 +3,7 @@
   "resourceVersion": "1.0",
   "name": "o_zombie",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":true,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"o_player_projectile","path":"objects/o_player_projectile/o_player_projectile.yy",},"eventNum":0,"eventType":4,"isDnD":true,},
   ],
   "managed": true,
   "overriddenProperties": [],

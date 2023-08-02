@@ -1,3 +1,17 @@
+/// @DnDAction : YoYo Games.Common.Execute_Script
+/// @DnDVersion : 1.1
+/// @DnDHash : 081EF0DC
+/// @DnDArgument : "script" "player_attack"
+/// @DnDSaveInfo : "script" "player_attack"
+script_execute(player_attack);
+
+/// @DnDAction : YoYo Games.Common.Execute_Script
+/// @DnDVersion : 1.1
+/// @DnDHash : 7131B72C
+/// @DnDArgument : "script" "player_facing"
+/// @DnDSaveInfo : "script" "player_facing"
+script_execute(player_facing);
+
 /// @DnDAction : YoYo Games.Mouse & Keyboard.If_Key_Down
 /// @DnDVersion : 1
 /// @DnDHash : 01B6E7E1

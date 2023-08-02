@@ -7,7 +7,7 @@ zombie_spd = 2;
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
-/// @DnDHash : 05122E40
+/// @DnDHash : 2E1CE187
 /// @DnDArgument : "expr" "false"
 /// @DnDArgument : "var" "attacking"
 attacking = false;
