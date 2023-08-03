@@ -4,12 +4,6 @@
 /// @DnDArgument : "type" "2"
 window_set_fullscreen(true);
 
-/// @DnDAction : YoYo Games.Common.Set_Global
-/// @DnDVersion : 1
-/// @DnDHash : 4E627843
-/// @DnDArgument : "var" "globalcoin"
-global.globalcoin = 0;
-
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 151BCA3D

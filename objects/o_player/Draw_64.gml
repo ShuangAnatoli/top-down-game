@@ -4,8 +4,8 @@
 /// @DnDArgument : "x" "10"
 /// @DnDArgument : "y" "10"
 /// @DnDArgument : "caption" ""Coins: ""
-/// @DnDArgument : "text" "coin"
-draw_text_transformed(10, 10, string("Coins: ") + string(coin), 1, 1, 0);
+/// @DnDArgument : "text" "global.coin"
+draw_text_transformed(10, 10, string("Coins: ") + string(global.coin), 1, 1, 0);
 
 /// @DnDAction : YoYo Games.Drawing.Draw_Value_Transformed
 /// @DnDVersion : 1
