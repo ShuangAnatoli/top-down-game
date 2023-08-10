@@ -3,6 +3,7 @@
 /// @DnDHash : 7D7BC9B5
 /// @DnDArgument : "xpos" "x"
 /// @DnDArgument : "ypos" "y"
+/// @DnDArgument : "var_temp" "1"
 /// @DnDArgument : "objectid" "o_player_projectile"
 /// @DnDArgument : "layer" ""Player""
 /// @DnDSaveInfo : "objectid" "o_player_projectile"

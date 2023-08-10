@@ -6,12 +6,6 @@ window_set_fullscreen(true);
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
-/// @DnDHash : 1FF4A264
-/// @DnDArgument : "var" "coin"
-coin = 0;
-
-/// @DnDAction : YoYo Games.Common.Variable
-/// @DnDVersion : 1
 /// @DnDHash : 151BCA3D
 /// @DnDInput : 4
 /// @DnDArgument : "var" "left"
