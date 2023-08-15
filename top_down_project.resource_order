@@ -22,6 +22,7 @@
     {"name":"Collectibles","order":9,"path":"folders/Sprites/Collectibles.yy",},
     {"name":"Coins","order":1,"path":"folders/Sprites/Collectibles/Coins.yy",},
     {"name":"Collision","order":8,"path":"folders/Sprites/Collision.yy",},
+    {"name":"Decoration","order":14,"path":"folders/Sprites/Decoration.yy",},
     {"name":"Enemy","order":13,"path":"folders/Sprites/Enemy.yy",},
     {"name":"Attack","order":1,"path":"folders/Sprites/Enemy/Attack.yy",},
     {"name":"Idle","order":4,"path":"folders/Sprites/Enemy/Idle.yy",},
@@ -30,51 +31,39 @@
     {"name":"Run","order":2,"path":"folders/Sprites/Player/Run.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
-<<<<<<< HEAD
-    {"name":"Floor","order":14,"path":"folders/Sprites/Floor.yy",},
-    {"name":"sprite","order":1,"path":"folders/Sprites/Floor/sprite.yy",},
-=======
-    {"name":"Decoration","order":14,"path":"folders/Sprites/Decoration.yy",},
->>>>>>> f155498311feefabd24d74356deccddca8aabc50
   ],
   "ResourceOrderSettings": [
     {"name":"s_player_idle_right","order":2,"path":"sprites/s_player_idle_right/s_player_idle_right.yy",},
     {"name":"s_enemy_attack_back","order":1,"path":"sprites/s_enemy_attack_back/s_enemy_attack_back.yy",},
     {"name":"Sprite23","order":15,"path":"sprites/Sprite23/Sprite23.yy",},
     {"name":"s_player_idle_front","order":1,"path":"sprites/s_player_idle_front/s_player_idle_front.yy",},
-<<<<<<< HEAD
-    {"name":"S_nextLevel","order":1,"path":"sprites/S_nextLevel/S_nextLevel.yy",},
-    {"name":"ts_kitchen","order":2,"path":"tilesets/ts_kitchen/ts_kitchen.yy",},
-=======
     {"name":"s_kitchen","order":2,"path":"sprites/s_kitchen/s_kitchen.yy",},
->>>>>>> f155498311feefabd24d74356deccddca8aabc50
     {"name":"player_attack","order":3,"path":"scripts/player_attack/player_attack.yy",},
-    {"name":"Level3","order":2,"path":"rooms/Level3/Level3.yy",},
-    {"name":"Level2","order":1,"path":"rooms/Level2/Level2.yy",},
+    {"name":"o_controls","order":10,"path":"objects/o_controls/o_controls.yy",},
+    {"name":"o_btn_quit","order":9,"path":"objects/o_btn_quit/o_btn_quit.yy",},
     {"name":"player_facing","order":4,"path":"scripts/player_facing/player_facing.yy",},
     {"name":"enemy_attack","order":2,"path":"scripts/enemy_attack/enemy_attack.yy",},
+    {"name":"s_menu_btn","order":16,"path":"sprites/s_menu_btn/s_menu_btn.yy",},
     {"name":"ts_kitchen","order":2,"path":"tilesets/ts_kitchen/ts_kitchen.yy",},
     {"name":"s_enemy_attack_right","order":2,"path":"sprites/s_enemy_attack_right/s_enemy_attack_right.yy",},
-<<<<<<< HEAD
-    {"name":"o_nextLevel","order":1,"path":"objects/o_nextLevel/o_nextLevel.yy",},
-=======
     {"name":"ts_floor","order":1,"path":"tilesets/ts_floor/ts_floor.yy",},
->>>>>>> f155498311feefabd24d74356deccddca8aabc50
     {"name":"enemy_move","order":1,"path":"scripts/enemy_move/enemy_move.yy",},
-    {"name":"s_kitchen","order":1,"path":"sprites/s_kitchen/s_kitchen.yy",},
     {"name":"o_player_projectile","order":1,"path":"objects/o_player_projectile/o_player_projectile.yy",},
     {"name":"s_player_run_front","order":1,"path":"sprites/s_player_run_front/s_player_run_front.yy",},
+    {"name":"o_btn_parent","order":7,"path":"objects/o_btn_parent/o_btn_parent.yy",},
     {"name":"s_player_run_side","order":2,"path":"sprites/s_player_run_side/s_player_run_side.yy",},
     {"name":"s_player_projectile","order":3,"path":"sprites/s_player_projectile/s_player_projectile.yy",},
     {"name":"o_nextLevel","order":1,"path":"objects/o_nextLevel/o_nextLevel.yy",},
     {"name":"rm_level2","order":1,"path":"rooms/rm_level2/rm_level2.yy",},
     {"name":"s_enemy_idle_right","order":2,"path":"sprites/s_enemy_idle_right/s_enemy_idle_right.yy",},
-    {"name":"s_nextLevel","order":1,"path":"sprites/s_nextLevel/s_nextLevel.yy",},
+    {"name":"rm_menu","order":3,"path":"rooms/rm_menu/rm_menu.yy",},
     {"name":"s_enemy_idle_front","order":1,"path":"sprites/s_enemy_idle_front/s_enemy_idle_front.yy",},
+    {"name":"o_btn_help","order":11,"path":"objects/o_btn_help/o_btn_help.yy",},
     {"name":"s_enemy_walk_right","order":2,"path":"sprites/s_enemy_walk_right/s_enemy_walk_right.yy",},
     {"name":"s_floor","order":1,"path":"sprites/s_floor/s_floor.yy",},
     {"name":"o_enemy_parent","order":1,"path":"objects/o_enemy_parent/o_enemy_parent.yy",},
     {"name":"s_enemy_walk_back","order":1,"path":"sprites/s_enemy_walk_back/s_enemy_walk_back.yy",},
     {"name":"rm_level3","order":2,"path":"rooms/rm_level3/rm_level3.yy",},
+    {"name":"o_btn_play","order":8,"path":"objects/o_btn_play/o_btn_play.yy",},
   ],
 }

@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-<Layouts><Layout layout_name="DnDWorkspace" layout_guid="2cfc931c-a3da-41e2-b713-a563f4e8742a" toolbox_size="25%" toolbox_anchor="Last" story_size="354.6875px"><Workspace zoom="1.55" pan="[-166.0096, -77.65884]" /><Node hash="47ADD5E5" left="-117.91189" top="0" width="234.40001" height="63.8" /><Node hash="151BCA3D" left="-116" top="73.8" width="232" height="485.53745" /></Layout></Layouts>
-=======
-<Layouts><Layout layout_name="DnDWorkspace" layout_guid="0f012bcc-7557-4e64-99e1-0141349e41c7" toolbox_size="17.695168%" toolbox_anchor="Last" story_size="90px"><Workspace zoom="1.55" pan="[-261.3595, -44.824535]" /><Node hash="47ADD5E5" left="-117.91189" top="0" width="234.40001" height="63.8" /><Node hash="151BCA3D" left="-116" top="73.8" width="232" height="485.5374" /></Layout></Layouts>
->>>>>>> f155498311feefabd24d74356deccddca8aabc50
+<Layouts><Layout layout_name="DnDWorkspace" layout_guid="41536366-14e8-4497-9f85-0d938aad2469" toolbox_size="17.695168%" toolbox_anchor="Last" story_size="272px"><Workspace zoom="0.7068043" pan="[-635, 1020]" /><Node hash="47ADD5E5" left="-117.91189" top="0" width="235.82379" height="63.8" /><Node hash="151BCA3D" left="-116" top="73.799995" width="232" height="485.5374" /></Layout></Layouts>

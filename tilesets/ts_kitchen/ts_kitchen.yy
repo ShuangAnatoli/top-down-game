@@ -8,21 +8,12 @@
     "SerialiseWidth": 0,
     "TileSerialiseData": [],
   },
-<<<<<<< HEAD
-  "out_columns": 27,
-  "out_tilehborder": 2,
-  "out_tilevborder": 2,
-  "parent": {
-    "name": "Floor",
-    "path": "folders/Sprites/Floor.yy",
-=======
   "out_columns": 28,
   "out_tilehborder": 2,
   "out_tilevborder": 2,
   "parent": {
     "name": "Tile Sets",
     "path": "folders/Tile Sets.yy",
->>>>>>> f155498311feefabd24d74356deccddca8aabc50
   },
   "spriteId": {
     "name": "s_kitchen",
@@ -33,11 +24,7 @@
     "name": "Default",
     "path": "texturegroups/Default",
   },
-<<<<<<< HEAD
-  "tile_count": 720,
-=======
   "tile_count": 784,
->>>>>>> f155498311feefabd24d74356deccddca8aabc50
   "tileAnimation": {
     "FrameData": [
       0,
@@ -760,8 +747,6 @@
       717,
       718,
       719,
-<<<<<<< HEAD
-=======
       720,
       721,
       722,
@@ -826,7 +811,6 @@
       781,
       782,
       783,
->>>>>>> f155498311feefabd24d74356deccddca8aabc50
     ],
     "SerialiseFrameCount": 1,
   },
