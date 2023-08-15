@@ -42,7 +42,8 @@ function player_attack()
 		/// @DnDHash : 29D236F5
 		/// @DnDParent : 47278F51
 		/// @DnDArgument : "steps" "-1"
+		/// @DnDArgument : "steps_relative" "1"
 		/// @DnDArgument : "alarm" "1"
-		alarm_set(1, -1);
+		alarm_set(1, -1 + alarm_get(1));
 	}
 }

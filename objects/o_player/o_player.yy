@@ -13,6 +13,10 @@
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"o_zombie","path":"objects/o_zombie/o_zombie.yy",},"eventNum":0,"eventType":4,"isDnD":true,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":true,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":1,"eventType":2,"isDnD":true,},
+<<<<<<< HEAD
+=======
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"o_nextLevel","path":"objects/o_nextLevel/o_nextLevel.yy",},"eventNum":0,"eventType":4,"isDnD":true,},
+>>>>>>> f155498311feefabd24d74356deccddca8aabc50
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":2,"eventType":7,"isDnD":true,},
   ],
   "managed": true,

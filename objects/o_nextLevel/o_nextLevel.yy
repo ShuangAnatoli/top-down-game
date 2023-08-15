@@ -28,8 +28,13 @@
   "properties": [],
   "solid": false,
   "spriteId": {
+<<<<<<< HEAD
     "name": "S_nextLevel",
     "path": "sprites/S_nextLevel/S_nextLevel.yy",
+=======
+    "name": "Sprite23",
+    "path": "sprites/Sprite23/Sprite23.yy",
+>>>>>>> f155498311feefabd24d74356deccddca8aabc50
   },
   "spriteMaskId": null,
   "visible": true,

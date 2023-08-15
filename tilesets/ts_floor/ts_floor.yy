@@ -8,12 +8,21 @@
     "SerialiseWidth": 0,
     "TileSerialiseData": [],
   },
+<<<<<<< HEAD
   "out_columns": 36,
   "out_tilehborder": 2,
   "out_tilevborder": 2,
   "parent": {
     "name": "Floor",
     "path": "folders/Sprites/Floor.yy",
+=======
+  "out_columns": 24,
+  "out_tilehborder": 2,
+  "out_tilevborder": 2,
+  "parent": {
+    "name": "Tile Sets",
+    "path": "folders/Tile Sets.yy",
+>>>>>>> f155498311feefabd24d74356deccddca8aabc50
   },
   "spriteId": {
     "name": "s_floor",
@@ -24,7 +33,11 @@
     "name": "Default",
     "path": "texturegroups/Default",
   },
+<<<<<<< HEAD
   "tile_count": 1320,
+=======
+  "tile_count": 600,
+>>>>>>> f155498311feefabd24d74356deccddca8aabc50
   "tileAnimation": {
     "FrameData": [
       0,
@@ -627,6 +640,7 @@
       597,
       598,
       599,
+<<<<<<< HEAD
       600,
       601,
       602,
@@ -1347,6 +1361,8 @@
       1317,
       1318,
       1319,
+=======
+>>>>>>> f155498311feefabd24d74356deccddca8aabc50
     ],
     "SerialiseFrameCount": 1,
   },
