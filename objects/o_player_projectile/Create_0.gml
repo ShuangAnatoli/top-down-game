@@ -5,6 +5,12 @@
 /// @DnDArgument : "y" "mouse_y"
 direction = point_direction(x, y, mouse_x, mouse_y);
 
+/// @DnDAction : YoYo Games.Instances.Sprite_Rotate
+/// @DnDVersion : 1
+/// @DnDHash : 15BC89AA
+/// @DnDArgument : "angle" "direction"
+image_angle = direction;
+
 /// @DnDAction : YoYo Games.Movement.Set_Speed
 /// @DnDVersion : 1
 /// @DnDHash : 3CA5B9BF

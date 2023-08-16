@@ -1,3 +1,21 @@
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 0EF1DDF7
+/// @DnDArgument : "expr" "depth-1"
+/// @DnDArgument : "var" "my_gun.depth"
+my_gun.depth = depth-1;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 3CE4997A
+/// @DnDInput : 2
+/// @DnDArgument : "expr" "x + lengthdir_x(gun_distance,aim_direction)"
+/// @DnDArgument : "expr_1" "y + lengthdir_y(gun_distance,aim_direction)"
+/// @DnDArgument : "var" "my_gun.x"
+/// @DnDArgument : "var_1" "my_gun.y"
+my_gun.x = x + lengthdir_x(gun_distance,aim_direction);
+my_gun.y = y + lengthdir_y(gun_distance,aim_direction);
+
 /// @DnDAction : YoYo Games.Mouse & Keyboard.If_Key_Down
 /// @DnDVersion : 1
 /// @DnDHash : 1EA1E800

@@ -1,16 +1,37 @@
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 3D3F173A
+/// @DnDArgument : "expr" "point_direction(x,y,mouse_x,mouse_y)"
+/// @DnDArgument : "var" "aim_direction"
+aim_direction = point_direction(x,y,mouse_x,mouse_y);
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 1CA3EC85
+/// @DnDArgument : "expr" "aim_direction"
+/// @DnDArgument : "var" "my_gun.image_angle"
+my_gun.image_angle = aim_direction;
+
 /// @DnDAction : YoYo Games.Common.Execute_Script
 /// @DnDVersion : 1.1
-/// @DnDHash : 081EF0DC
+/// @DnDHash : 7131B72C
 /// @DnDArgument : "script" "player_attack"
 /// @DnDSaveInfo : "script" "player_attack"
 script_execute(player_attack);
 
 /// @DnDAction : YoYo Games.Common.Execute_Script
 /// @DnDVersion : 1.1
-/// @DnDHash : 7131B72C
+/// @DnDHash : 0D58C980
 /// @DnDArgument : "script" "player_facing"
 /// @DnDSaveInfo : "script" "player_facing"
 script_execute(player_facing);
+
+/// @DnDAction : YoYo Games.Common.Execute_Script
+/// @DnDVersion : 1.1
+/// @DnDHash : 5EF52C46
+/// @DnDArgument : "script" "gun_facing"
+/// @DnDSaveInfo : "script" "gun_facing"
+script_execute(gun_facing);
 
 /// @DnDAction : YoYo Games.Mouse & Keyboard.If_Key_Down
 /// @DnDVersion : 1
