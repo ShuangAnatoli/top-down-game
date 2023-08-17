@@ -40,8 +40,8 @@
   "nineSlice": null,
   "origin": 4,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Portal",
+    "path": "folders/Sprites/Portal.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

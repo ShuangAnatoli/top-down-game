@@ -21,6 +21,14 @@ function player_attack()
 		/// @DnDArgument : "op" "1"
 		if(alarm[1] < 0)
 		{
+			/// @DnDAction : YoYo Games.Audio.Play_Audio
+			/// @DnDVersion : 1.1
+			/// @DnDHash : 2DA73FDD
+			/// @DnDParent : 7401A7B5
+			/// @DnDArgument : "soundid" "snd_shoot"
+			/// @DnDSaveInfo : "soundid" "snd_shoot"
+			audio_play_sound(snd_shoot, 0, 0, 1.0, undefined, 1.0);
+		
 			/// @DnDAction : YoYo Games.Instances.Set_Alarm
 			/// @DnDVersion : 1
 			/// @DnDHash : 7563BC85
