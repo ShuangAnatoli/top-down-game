@@ -5,5 +5,5 @@ event_inherited();
 
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
-/// @DnDHash : 4ED8D32E
+/// @DnDHash : 18DFB1B8
 alarm_set(0, 30);

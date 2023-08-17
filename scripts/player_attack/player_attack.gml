@@ -23,7 +23,7 @@ function player_attack()
 		{
 			/// @DnDAction : YoYo Games.Audio.Play_Audio
 			/// @DnDVersion : 1.1
-			/// @DnDHash : 2DA73FDD
+			/// @DnDHash : 5B9FEBC0
 			/// @DnDParent : 7401A7B5
 			/// @DnDArgument : "soundid" "snd_shoot"
 			/// @DnDSaveInfo : "soundid" "snd_shoot"
